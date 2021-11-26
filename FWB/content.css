@@ -1,0 +1,33 @@
+a{
+	float: right;
+	font-size: 30px;
+}
+body{
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+i{
+	font-weight: bolder;
+	font-size: 20px;
+	color: white;
+}
+h1{
+	font-style: oblique;
+	font-family: cursive;
+	text-align: center;
+	color: white;
+}
+table{
+	border-color: black;
+}
+div{
+	position: absolute;
+	top: 358px;
+	left: 700px;
+}
+#com{
+	position: absolute;
+	top: 718px;
+	left: 700px;
+}

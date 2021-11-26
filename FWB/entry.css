@@ -1,0 +1,35 @@
+#SAL{
+	font-size: 300%;
+	font-family: serif;
+	text-align: center;
+	color: blue;
+}
+form{
+	vertical-align: bottom;
+	text-align: center;
+	color: white;
+	justify-content: flex-end;
+}
+#staff{
+	font-size: 125%;
+	color: white;
+
+}
+button{
+	color: yellow;
+	background-color: white;
+	font-size: 18px;
+}
+a{
+	font-family: cursive;
+	float: right;
+	font-size: 160%;
+}
+p{
+	font-size: 230%;
+    align-content: center;
+    color:darkblue;
+    font-style: italic;
+    vertical-align: bottom;
+    font-weight: bolder;
+    font-family:cursive;

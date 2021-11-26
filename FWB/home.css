@@ -1,0 +1,34 @@
+body{
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	color: purple;
+	text-align: center;
+}
+img{
+	float:left; 
+}
+div{
+	font-size: 135%;
+}
+p.mav{
+	font size: 135%;
+}
+a{
+	float: right;
+	font-weight: bolder;
+	font-size: 140%;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #dddddd;
+}
+li{
+	display: inline;
+	align-items: center;
+
+}
